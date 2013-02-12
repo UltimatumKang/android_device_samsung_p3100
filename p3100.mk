@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
 
 # Packages
 PRODUCT_PACKAGES += \
-    Mms \
     SamsungServiceMode
 
 # RIL
